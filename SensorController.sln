@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorController", "SensorController\SensorController.csproj", "{B6B2055C-0DA0-41A8-B3AA-8F9B3E74D72E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorController.Test", "SensorController.Test\SensorController.Test.csproj", "{3FB3AF3C-8AFF-48DC-96DB-F4CD575277D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B2055C-0DA0-41A8-B3AA-8F9B3E74D72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B2055C-0DA0-41A8-B3AA-8F9B3E74D72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B2055C-0DA0-41A8-B3AA-8F9B3E74D72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B2055C-0DA0-41A8-B3AA-8F9B3E74D72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB3AF3C-8AFF-48DC-96DB-F4CD575277D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB3AF3C-8AFF-48DC-96DB-F4CD575277D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB3AF3C-8AFF-48DC-96DB-F4CD575277D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB3AF3C-8AFF-48DC-96DB-F4CD575277D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7901518-24AC-4CD8-839F-6D51423BFE90}
+	EndGlobalSection
+EndGlobal
